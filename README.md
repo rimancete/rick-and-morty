@@ -43,6 +43,4 @@ Técnicas
 - Testes
 - Aplicação de algum UI(ex: Chakra, Material-UI ou similares) no lugar de styled-components
 - Padronizar nomemclatura CSS (ex: Arquitetura BEM)
-
-Layout
-- Responsividade
+- Centralizar ajustes de responsividade
