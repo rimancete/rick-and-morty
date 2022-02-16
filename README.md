@@ -11,8 +11,8 @@ Este projeto lista detalhes de personagens do Rick And Morty, possibilitando pes
 ## Bibliotecas utilizadas
 
 - styled-components - Estilização dos componentes (CSS)
-- axios - Manipulação de dados das APIs.
-- react-icons - Para ícones.
+- axios - Manipulação de dados das APIs
+- react-icons - Para ícones
 - react-redux/redux-tollkit - Estados globais e contexto
 - react-router-dom - Rotas e navegação entre páginas
 
